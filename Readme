@@ -1,0 +1,7 @@
+curl -X GET "http://localhost:8080/customer/" -H "accept: */*" -H "Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJqb2huQGRldi5pbiIsImV4cCI6MTY4OTIxNzM3MSwiaWF0IjoxNjg5MjE1NTcxfQ.3-5n4r6wL-eLJLmfkt6ajsV_KfM-4ebvWDc2JjSTiTYD5VPjh_AguRbNMinCgqcNW7Mcyl-HzZh7qkqQIM9OMg"
+
+http://localhost:8080/swagger-ui.html
+
+https://www.youtube.com/watch?v=yZdmcMQkQRo
+
+
